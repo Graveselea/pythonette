@@ -1,4 +1,4 @@
-# tests_PYTHON
+# Pythonette
 
 Quality checks for any Python project.
 
